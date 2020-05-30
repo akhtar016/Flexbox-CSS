@@ -1,0 +1,39 @@
+/* CSS */
+
+.box {
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+h2 {
+    color: white;
+    font-size: 35px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#b {
+    background-color:#8DE4AF;  
+}
+
+#a {
+    background-color:#96CAEF;
+}
+
+#c {
+    background-color: #E7717D;
+}
+
+/* .dis {
+    display: inline-flex;
+} */
+
+
+#pond {
+    height: 100vh ;
+    display: flex;
+}

@@ -1,0 +1,1 @@
+Now we need a layout where Box A will be on the left side of the container and Box B and C will be on the right side of the container. See the image below. How can we achieve this?

@@ -1,0 +1,51 @@
+body {
+    margin: 80px;
+    font-family: Raleway, sans-serif;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 420px;
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+}
+
+a {
+    background-color: #E7717D;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+p {
+    margin-bottom: 40px;
+    color: gray;
+}
+
+#section {
+    display: inline-flex;
+    height: 100%;
+    width: 100%;
+}
+
+#part1, #part2 {
+    width:  50%;
+}
+
+#part1 {
+    padding-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;   
+}
+
+#part2 {
+    height: 500px;
+    background-color: #E7717D;
+}
+
